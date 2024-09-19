@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "jp.co.cdjapan.shopping",
+    "sha256_cert_fingerprints":
+    ["5D:57:22:13:7F:37:B1:79:2A:90:F8:61:02:B8:3D:AA:B6:02:EC:C5:56:CB:F6:91:65:9A:B8:CE:9F:EB:CE:53"]
+  }
+}]
